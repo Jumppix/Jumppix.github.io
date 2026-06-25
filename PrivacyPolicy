@@ -1,0 +1,29 @@
+Privacy Policy
+Last updated: 25.06.2026
+
+Viral Content Publish ("the app") is a personal tool operated by an individual creator to
+publish their own short-form videos to their own TikTok account. This policy
+explains what data the app handles.
+
+Data the app accesses
+- TikTok account information: after you log in with TikTok, the app receives your
+  basic profile information (open_id and display name) to confirm it is connected
+  to the correct account.
+- Authentication tokens: the app stores the OAuth access and refresh tokens issued
+  by TikTok so it can act on your behalf. It never receives or stores your password.
+- Video content: videos that you choose to upload through the app.
+
+How the data is used
+The data is used solely to authenticate the account owner and to upload the owner's
+own videos to their own TikTok account. It is not used for any other purpose.
+
+Data sharing
+The app does not sell, rent, or share any data with third parties. Account data is
+only transmitted to TikTok's official API to perform the actions you request.
+
+Your control
+You can revoke the app's access at any time in your TikTok settings under "Manage
+app permissions." Revoking access immediately stops the app from acting on your behalf.
+
+Contact
+For any questions about this policy, contact: jumpyxx@protonmail.com
